@@ -16,4 +16,6 @@ this = endereçador especial que se refere aquele objeto.
 
 Padrão de aplicação do java - estática (não modifica no decorrer da aplicação).
 
-Herança - classe filho herda da classe pai. **(Definição *extends*)**
+Herança - classe filho herda da classe pai (em java não consegue ter heraça multipla, apenas pode herdar de uma outra classe). **(Definição *extends*)**
+
+Varias Heranças - cadeia de Herança
